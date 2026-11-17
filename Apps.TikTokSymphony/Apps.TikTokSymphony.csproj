@@ -6,7 +6,7 @@
         <Nullable>enable</Nullable>
         <Product>TikTok Symphony</Product>
         <Description>Generate, translate and dub videos, create digital-avatar presentations, discover inspiration, and retrieve finished assets with TikTok Symphony.</Description>
-        <Version>1.1.0</Version>
+        <Version>1.1.1</Version>
         <AssemblyVersion>$(Version).0</AssemblyVersion>
         <FileVersion>$(Version).0</FileVersion>
         <InformationalVersion>$(Version)</InformationalVersion>
@@ -25,7 +25,7 @@
     <ItemGroup>
         <EmbeddedResource Include="image/icon.png" />
         <None Include="image/tiktok.jpg" />
-        <EmbeddedResource Include="../README.md" Link="README.md" CopyToOutputDirectory="Always" />
+        <EmbeddedResource Include="..\README.md" Link="README.md" CopyToOutputDirectory="Always" />
     </ItemGroup>
 
     <Target Name="ValidateAppVersion" BeforeTargets="BeforeBuild;PrepareForPublish">
