@@ -1,0 +1,6 @@
+<RunSettings>
+    <TestRunParameters>
+        <Parameter name="RunOAuthLifecycle" value="false" />
+        <Parameter name="OAuthAuthorizationCode" value="REPLACE_LOCALLY_WITH_A_FRESH_CODE" />
+    </TestRunParameters>
+</RunSettings>

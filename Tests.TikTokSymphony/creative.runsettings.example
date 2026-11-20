@@ -1,0 +1,9 @@
+<RunSettings>
+    <TestRunParameters>
+        <Parameter name="RunCreativeGeneration" value="false" />
+        <Parameter name="ApprovedSourceVideoConsent" value="false" />
+        <Parameter name="ApprovedSourceVideoUrl" value="" />
+        <Parameter name="SucceededDubbingTaskId" value="" />
+        <Parameter name="SucceededAvatarTaskId" value="" />
+    </TestRunParameters>
+</RunSettings>

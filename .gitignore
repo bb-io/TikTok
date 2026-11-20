@@ -367,3 +367,8 @@ MigrationBackup/
 FodyWeavers.xsd
 
 */appsettings.json
+/Tests.TikTokSymphony/appsettings.json
+/Tests.TikTokSymphony/TestFiles/Output/
+/publish/
+
+*.runsettings
